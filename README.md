@@ -2,7 +2,7 @@
 He realizado los siguiente ejercicios mediante una Programación Orientada a Objetos.
 Mi dirección de Github es: https://github.com/claudiaalozano/Ordenan_individual.git
 
-#Ejercicio 4: Ordenación por inserción dicotómica:
+## Ejercicio 4: Ordenación por inserción dicotómica:
 Para este ejercicio he empleado el siguiente código:
 
 ```b = import random from randin(0,10)
@@ -25,7 +25,7 @@ if __name__ == "__main__":
 ```
 
 
-#Ejercicio 5: Ordenación topológica:
+## Ejercicio 5: Ordenación topológica:
 Para este ejercicio he empleado el siguiente código:
 
 ```def ordenar_topologica (lista):
@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
 
 
-#Ejercicio 6: Especificación de está_explorado
+## Ejercicio 6: Especificación de está_explorado
 Para este ejercicio he empleado el siguiente código:
 
 ```def ordenar(a,b):
